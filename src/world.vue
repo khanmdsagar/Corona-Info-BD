@@ -120,9 +120,7 @@ li{
   overflow: scroll;
   margin-bottom: 50px;
 }
-tr:nth-child(2){
-  display: none;
-}
+
 .countrydata::-webkit-scrollbar{
   display: none;
 }
